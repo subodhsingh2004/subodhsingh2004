@@ -1,12 +1,5 @@
-## Hello 👋, I'm Subodh Singh
-
-## 🚀 About Me
-- 💻 Full Stack Developer
-- 🌱 Currently learning PostgreSQL
-
-## 🛠️ Skills
-- JavaScript
-- React JS
-- Next JS
-- Express
-- MongoDB
+<p>
+    Hi👋, I'm <b>Subodh Singh</b>
+    <br>
+    A full stack developer
+</p>
