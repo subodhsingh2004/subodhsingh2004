@@ -11,3 +11,5 @@
 <p>
     looking for a full-time opportunity to work as a full stack developer.
 </p>
+
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,next,express,mongodb" />
